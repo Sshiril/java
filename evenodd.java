@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-// Java Program to find whether a number is even or odd
+// Java Program to find whether a number is even or odd using if
 
     int i=5;
     if(i%2==0){
